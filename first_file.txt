@@ -1,1 +1,2 @@
 Hello world!
+New change that should not get lost!
